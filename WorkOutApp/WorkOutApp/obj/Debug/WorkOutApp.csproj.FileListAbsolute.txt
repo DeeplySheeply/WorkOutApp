@@ -1,0 +1,12 @@
+C:\code\dotNet\WorkOutApp\WorkOutApp\bin\Debug\WorkOutApp.exe.config
+C:\code\dotNet\WorkOutApp\WorkOutApp\bin\Debug\WorkOutApp.exe
+C:\code\dotNet\WorkOutApp\WorkOutApp\bin\Debug\WorkOutApp.pdb
+C:\code\dotNet\WorkOutApp\WorkOutApp\obj\Debug\WorkOutApp.csprojAssemblyReference.cache
+C:\code\dotNet\WorkOutApp\WorkOutApp\obj\Debug\WorkOutApp.FrmWorkOutApp.resources
+C:\code\dotNet\WorkOutApp\WorkOutApp\obj\Debug\WorkOutApp.Properties.Resources.resources
+C:\code\dotNet\WorkOutApp\WorkOutApp\obj\Debug\WorkOutApp.csproj.GenerateResource.cache
+C:\code\dotNet\WorkOutApp\WorkOutApp\obj\Debug\WorkOutApp.csproj.CoreCompileInputs.cache
+C:\code\dotNet\WorkOutApp\WorkOutApp\obj\Debug\WorkOutApp.exe
+C:\code\dotNet\WorkOutApp\WorkOutApp\obj\Debug\WorkOutApp.pdb
+C:\code\dotNet\WorkOutApp\WorkOutApp\bin\Debug\Workouts.mdf
+C:\code\dotNet\WorkOutApp\WorkOutApp\bin\Debug\Workouts_log.ldf
